@@ -1,0 +1,1 @@
+puts "webcanp高額".include?("webcanp")

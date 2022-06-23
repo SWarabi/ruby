@@ -1,0 +1,1 @@
+puts "webcanp高い".methods
